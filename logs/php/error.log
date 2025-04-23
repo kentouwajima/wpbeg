@@ -1,0 +1,2 @@
+[23-Apr-2025 04:57:31 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/kentouwajima/Local Sites/wpbeg/app/public/wp-includes/class-wp-customize-widgets.php on line 926
+[23-Apr-2025 04:57:42 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/kentouwajima/Local Sites/wpbeg/app/public/wp-includes/class-wp-customize-widgets.php on line 926
