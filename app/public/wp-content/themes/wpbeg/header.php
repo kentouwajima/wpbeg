@@ -18,4 +18,4 @@
     <p class="header__description"><?php bloginfo( 'description' ); ?></p>
     <?php get_search_form(); ?>
     <?php wp_nav_menu(); ?>
-  </header>
+  	</header>
